@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/import-assets.zip'
+      - '.github/workflows/import-assets.yml'
 permissions:
   contents: write
 jobs:
