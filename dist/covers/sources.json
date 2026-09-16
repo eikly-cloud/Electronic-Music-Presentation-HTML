@@ -1,0 +1,58 @@
+[
+  {
+    "file": "covers/ushio.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9a/88/04/9a880477-54f2-23c7-01c6-8db84301b7e2/cover.jpg/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/ushio-emotional-intro-mix/938360153?i=938360160&uo=4",
+    "album": "Ushio - Single",
+    "title": "Ushio (Emotional Intro Mix)",
+    "artist": "New World"
+  },
+  {
+    "file": "covers/satellite.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/52/c9/f552c96d-1574-b2a1-9bf9-038d7a9cb926/859754662664_cover.jpg/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/s-a-t-e-l-l-i-t-e/1448846900?i=1448847049&uo=4",
+    "album": "Heart of Android",
+    "title": "S.A.T.E.L.L.I.T.E.",
+    "artist": "Camellia"
+  },
+  {
+    "file": "covers/crystallized.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/d2/5b/2fd25b95-4437-ad5e-5a92-3bf9f2a54edb/859752822503_cover.png/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/crystallized/1080230292?i=1080230445&uo=4",
+    "album": "Crystallized",
+    "title": "Crystallized",
+    "artist": "Camellia"
+  },
+  {
+    "file": "covers/garakuta.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/5f/dc/895fdcf4-2111-9af3-f2ad-90195bdf304e/859758455194_cover.jpg/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/garakuta-doll-play/1633656152?i=1633657389&uo=4",
+    "album": "Maimai All Perfect COLLECTiON 2",
+    "title": "Garakuta Doll Play",
+    "artist": "T+Pazolite"
+  },
+  {
+    "file": "covers/freedom-dive.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/4f/1e/de4f1e53-d408-6e1b-e656-4b99fbaf23cb/4582451410660.png/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/freedom-dive/1350310311?i=1350310324&uo=4",
+    "album": "Parousia",
+    "title": "Freedom Dive",
+    "artist": "xi"
+  },
+  {
+    "file": "covers/ghost.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/d2/a9/bbd2a935-96c3-909f-339e-a55115f6e8a3/859753172454_cover.jpg/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/ghost/1176411990?i=1176412476&uo=4",
+    "album": "Cyphisonia - EP",
+    "title": "Ghost",
+    "artist": "Camellia"
+  },
+  {
+    "file": "covers/halcyon.jpg",
+    "imageSource": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/4f/1e/de4f1e53-d408-6e1b-e656-4b99fbaf23cb/4582451410660.png/600x600bb.jpg",
+    "source": "https://music.apple.com/us/album/halcyon/1350310311?i=1350310321&uo=4",
+    "album": "Parousia",
+    "title": "Halcyon",
+    "artist": "xi"
+  }
+]

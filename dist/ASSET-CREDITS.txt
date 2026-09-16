@@ -1,0 +1,47 @@
+Rainshower (驟雨の狭間) — Silentroom
+Album: In My Heart (2022)
+Official track page: https://slrm.bandcamp.com/track/rainshower
+Album artwork source: https://f4.bcbits.com/img/a3493216592_5.jpg
+The DAW display is an illustrative arrangement study, not the original project or an exact transcription.
+The animation is visual only; no song recording is bundled.
+
+Display and content fonts: font resources used by the Zenless Zone Zero official website.
+Light body font: Adobe Source Han Sans SC Light.
+Additional embedded fonts: Anton, Barlow Condensed, IBM Plex Mono.
+
+OFFLINE PLAYBACK
+Extract the entire folder and open index.html in a recent Chrome or Edge browser.
+No internet connection, external library, server or installation is required.
+Select slide 03 to play the four-second intro. It plays on each entry.
+The album and song card appears in the foreground, then shrinks into the upper-left header with nonlinear easing.
+The same card stays in the slide header after the full-screen DAW fades away.
+DAW highlights use frosted glass and a glow on both sides of the playhead. Timing stays linear at 180 BPM for two 4/4 bars.
+Arrow keys, Space, Escape or SKIP INTRO dismiss the intro to the slide content.
+The original Japanese track title is retained as a proper name; presentation controls and copy are English.
+
+3D archive arrangement and continuous wave motion reference: RhineLabUI by LBEILC, https://github.com/LBEILC/RhineLabUI (MIT; see RhineLabUI-LICENSE.txt). Adapted to local CSS 3D CD cases.
+
+Album artwork from Apple Music/iTunes public catalogue. Artwork belongs to the respective artists/labels. These are release/album covers, not necessarily in-game jackets.
+Ushio (Emotional Intro Mix) — New World | Ushio - Single
+https://music.apple.com/us/album/ushio-emotional-intro-mix/938360153?i=938360160&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/9a/88/04/9a880477-54f2-23c7-01c6-8db84301b7e2/cover.jpg/600x600bb.jpg
+S.A.T.E.L.L.I.T.E. — Camellia | Heart of Android
+https://music.apple.com/us/album/s-a-t-e-l-l-i-t-e/1448846900?i=1448847049&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/52/c9/f552c96d-1574-b2a1-9bf9-038d7a9cb926/859754662664_cover.jpg/600x600bb.jpg
+Crystallized — Camellia | Crystallized
+https://music.apple.com/us/album/crystallized/1080230292?i=1080230445&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/d2/5b/2fd25b95-4437-ad5e-5a92-3bf9f2a54edb/859752822503_cover.png/600x600bb.jpg
+Garakuta Doll Play — T+Pazolite | Maimai All Perfect COLLECTiON 2
+https://music.apple.com/us/album/garakuta-doll-play/1633656152?i=1633657389&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/89/5f/dc/895fdcf4-2111-9af3-f2ad-90195bdf304e/859758455194_cover.jpg/600x600bb.jpg
+Freedom Dive — xi | Parousia
+https://music.apple.com/us/album/freedom-dive/1350310311?i=1350310324&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/4f/1e/de4f1e53-d408-6e1b-e656-4b99fbaf23cb/4582451410660.png/600x600bb.jpg
+Ghost — Camellia | Cyphisonia - EP
+https://music.apple.com/us/album/ghost/1176411990?i=1176412476&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/d2/a9/bbd2a935-96c3-909f-339e-a55115f6e8a3/859753172454_cover.jpg/600x600bb.jpg
+Halcyon — xi | Parousia
+https://music.apple.com/us/album/halcyon/1350310311?i=1350310321&uo=4
+https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/4f/1e/de4f1e53-d408-6e1b-e656-4b99fbaf23cb/4582451410660.png/600x600bb.jpg
+
+Expanded archive: independent album covers from public iTunes artist catalogue searches. Full release titles, artists, Apple Music source URLs, local files and SHA-256 hashes: covers/archive-sources.json. Background images are 300px to limit offline size.
